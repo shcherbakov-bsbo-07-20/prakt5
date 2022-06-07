@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/practice5.iml" filepath="$PROJECT_DIR$/.idea/practice5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/accelerometer/practice5.accelerometer.iml" filepath="$PROJECT_DIR$/.idea/modules/accelerometer/practice5.accelerometer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/accelerometer/practice5.accelerometer.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/accelerometer/practice5.accelerometer.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/accelerometer/practice5.accelerometer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/accelerometer/practice5.accelerometer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/accelerometer/practice5.accelerometer.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/accelerometer/practice5.accelerometer.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/audiorecord/practice5.audiorecord.iml" filepath="$PROJECT_DIR$/.idea/modules/audiorecord/practice5.audiorecord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/audiorecord/practice5.audiorecord.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/audiorecord/practice5.audiorecord.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/audiorecord/practice5.audiorecord.main.iml" filepath="$PROJECT_DIR$/.idea/modules/audiorecord/practice5.audiorecord.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/audiorecord/practice5.audiorecord.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/audiorecord/practice5.audiorecord.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camera/practice5.camera.iml" filepath="$PROJECT_DIR$/.idea/modules/camera/practice5.camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camera/practice5.camera.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/camera/practice5.camera.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camera/practice5.camera.main.iml" filepath="$PROJECT_DIR$/.idea/modules/camera/practice5.camera.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camera/practice5.camera.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/camera/practice5.camera.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/practice5.sensorlist.iml" filepath="$PROJECT_DIR$/.idea/modules/app/practice5.sensorlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sensorlist/practice5.sensorlist.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sensorlist/practice5.sensorlist.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sensorlist/practice5.sensorlist.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sensorlist/practice5.sensorlist.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sensorlist/practice5.sensorlist.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sensorlist/practice5.sensorlist.unitTest.iml" />
+    </modules>
+  </component>
+</project>
